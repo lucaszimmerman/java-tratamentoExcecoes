@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Roberta\Downloads\Bootcamp - Santander\05 - Java\7- Processo Seletivo\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+336175264.index
+71267564.index
